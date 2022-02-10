@@ -1,5 +1,7 @@
 # :black_nib:  Todo List
 
+- Lista de tarefas com a opção adicionar tarefas e excluir tarefas.
+
 
 ## Install
 
