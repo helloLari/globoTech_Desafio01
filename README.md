@@ -1,5 +1,27 @@
 # :black_nib:  Todo List
 
+
+## Install
+
+Clone the repository in your computer by doing:
+
+> git clone https://github.com/helloLari/globoTech_Desafio01.git
+
+Install npm dependencies, by doing:
+
+> npm install
+
+
+## Run
+
+To run the project, do:
+
+> npm start
+
+#
+
+
+
 Este projeto foi gerado com [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
 
 ## Development server
